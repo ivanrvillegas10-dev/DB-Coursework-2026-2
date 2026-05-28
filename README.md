@@ -62,3 +62,12 @@ Sistema web desarrollado para modernizar y optimizar la administración de una c
 Página web : https://ivanrvillegas10-dev.github.io/carniceria/
 
 Repositorio : https://github.com/ivanrvillegas10-dev/carniceria
+
+<h3>Login</h3>
+<img src="https://github.com/user-attachments/assets/35ec3b13-3e45-430f-b918-a2746ce77ecf" alt="Login" width="800"/>
+
+<h3>Página principal</h3>
+<img src="https://github.com/user-attachments/assets/288cf883-9485-49e2-8df8-5de2ba3c2fbd" alt="Página principal" width="800"/>
+
+<h3>Productos</h3>
+<img src="https://github.com/user-attachments/assets/cf3d4ac4-8aa1-4345-84a8-298096fb80af" alt="Productos" width="800"/>
